@@ -16,5 +16,5 @@ Niinistö | Finland
 
 #### Alaotsikko
 
-[wiki](wiki)
+[wiki](Wiki)
 
