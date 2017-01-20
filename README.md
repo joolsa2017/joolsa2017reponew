@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat arcu, port
 
 ### Alaotsikko
 
-[yle](www.yle.fi)
+[yle](http://www.yle.fi)
 
 #### Alaotsikko
 
