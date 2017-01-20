@@ -11,3 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat arcu, port
 
 #### Alaotsikko
 
+![](http://michaelmoore.s3.amazonaws.com/wp/uploads/2016/07/23143828/trumpwillwin-notext.jpg)
+
