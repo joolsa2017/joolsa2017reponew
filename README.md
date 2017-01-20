@@ -8,8 +8,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat arcu, port
 ### Alaotsikko
 
 [yle](http://www.yle.fi)
+
 Presidentti | Maa
---- | ---
+---|---
 Trump | USA
 Niinistö | Finland
 
