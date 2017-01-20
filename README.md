@@ -16,5 +16,5 @@ Niinistö | Finland
 
 #### Alaotsikko
 
-[wiki](Wiki)
+[wiki](https://github.com/joolsa2017/joolsa2017reponew/wiki)
 
